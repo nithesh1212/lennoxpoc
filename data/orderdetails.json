@@ -1,9 +1,7 @@
-
 {
-
-"Order" : "543",
-"Unit": "XC17-024-230 ic",
-"Price": "$2,033",
-"Status": "Shipped"
-
+    "Order": "543",
+    "Unit": "XC17-024-230 ic",
+    "Price": "$2,033",
+    "Status": "Shipped",
+    "Details": "Arrival is due on 11/04/2017 Order Date: 04/04/2017 XC17-024-230 ic, Air Conditioning Condensing Unit, 18 SEER, 2 Ton, R-410A, DLSC Series Cat # : 71W00 | Model/Part #: XC17-024-230 ic"
 }
